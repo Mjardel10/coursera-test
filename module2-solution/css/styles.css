@@ -40,12 +40,12 @@ body {
     border-bottom: 2px solid black;
     top: 0;
     right: 0;
-    padding: 5px 40px;
+    padding: 4px 40px;
 }
 
 .card p {
     /* position: absolute; */
-    margin-top: 25px;
+    margin-top: 30px;
     padding: 10px;
     text-align: start;
 }
